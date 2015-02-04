@@ -1,0 +1,9 @@
+{
+  "name": "foxman",
+  "title": "FoxMan - REST Client",
+  "id": "jid1-24cpaYMhLIF6Uw",
+  "description": "A POSTMan clone for Firefox",
+  "author": "bogas04",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+  </head>
+  <body>
+    <input type="text" placeholder="http://127.0.0.1/api/search/" name="url">
+    <select name="verb">
+      <option value="get">GET</option>
+      <option value="post">POST</option>
+      <option value="put">PUT</option>
+      <option value="delete">DELETE</option>
+      <option value="PATCH">PATCH</option>
+      <option id="custom-verb"><input type="text" placeholder="CUSTOM VERB..." onchange="
+        $('#custom-verb').val(this.value);
+      ">
+      </option>
+    </select>
+
+  </body>
+</html>
