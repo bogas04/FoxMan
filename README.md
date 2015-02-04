@@ -3,7 +3,7 @@ FoxMan
 
 The addon aims to provide a POSTMan like
 REST client for FireFox. 
-I'd seen REST easy, but the codebase was too
+I've seen REST easy, but the codebase was too
 complicated for my limited knowledege of 
 Firefox Addon Development.
 
@@ -28,10 +28,10 @@ nothing fancy presently.
 
 Future 
 ======
-** We need to communicate with the HTML to save 
+* We need to communicate with the HTML to save 
 all the requests made, just like in POSTMan.
 
-** Further, we need to add support for collections
+* Further, we need to add support for collections
 of the requests. 
 
 I'm not sure if the communication support between sidebar 
