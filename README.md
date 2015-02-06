@@ -40,4 +40,6 @@ sidebar is aptly sized for the given task, so let's
 see how it goes.
 
 
-
+Contributors 
+============
+* Thanks to Stanko for rainbowJSON. https://github.com/Stanko/jquery.rainbowJSON
