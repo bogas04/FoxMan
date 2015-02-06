@@ -1,0 +1,19 @@
+.wrapper {
+  margin : 5px 2px;
+  padding : 10px 20px;
+}
+#json-body { 
+  display : none;
+  margin : 10px 0px 10px 5px;
+  width : 98%;
+}
+.form-group {
+  padding : 10px 0px;
+  margin : 5px 0px 20px 0px;
+}
+#req-res {
+  margin : 35px 0px 10px 15px;
+}
+#url {
+   width : 100%;
+}
