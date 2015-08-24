@@ -7,6 +7,8 @@ I've seen REST easy, but the codebase was too
 complicated for my limited knowledege of 
 Firefox Addon Development.
 
+![Foxman Screenshot](/screenshots/6 Feb 2015.png)
+
 How ?
 ====
 The addon is very basic, it uses sidebar for its UI 
